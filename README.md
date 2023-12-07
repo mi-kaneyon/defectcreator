@@ -28,5 +28,6 @@ python abnocreator.py
 - Left window is Image display. It is main window.
 - right side is load/save image button and manually/Random stamp defective image button.
 
+![Display image](screenimage.png)
 
 ## It is still on the way developping version. I need people who is expand function.
