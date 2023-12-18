@@ -21,8 +21,10 @@ class ImageDefectApp(QMainWindow):
         self.selection_started = False
         self.selection_rect = QRect()
         self.initUI()
-    
-
+    # if you will face to "AttributeError: 'ImageDefectApp' object has no attribute 'toggle_selection_mode'
+" comment off 
+    #def toggle_selection_mode(self):
+    #    self.is_selecting_area = not self.is_selecting_area
 
     def apply_transparency_gradient(self, pixmap):
         if pixmap.isNull():
