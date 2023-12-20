@@ -31,3 +31,7 @@ python abnocreator.py
 ![Display image](screenimage.png)
 
 ## It is still on the way developping version. I need people who is expand function.
+
+
+# LCD inspection sample generator
+Please check LCD sub directory. thanks!
