@@ -1,9 +1,23 @@
 # defectcreator
 **generate defecttive  sample images**
+## Update
+1. 27th Nov 2024
+   - Scratch creating function
+   - Improve Select area mode(stamp the failure sampele images
 
 # Feature
 - generate defect sample from acceptable image
 - stamp the defective which you want to add.
+- If you want to use new function, please select creating defect area.
+
+```
+defectcreator$ tree -d
+.
+├── defects
+
+```
+
+![Display image](v2sample.png)
 
 ## necessary modules for execute
 - PyQt5
